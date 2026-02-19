@@ -18,10 +18,12 @@ Unofficial PHP client for [Flip for Business](https://flip.id/business) APIs. Th
 
 ## Installation
 
-Install the package via Composer:
+Clone repository dan install dependencies:
 
 ```bash
-composer require reynaldiarya/flip-for-business-php
+git clone https://github.com/Akselerasi-Prima-Digital/Flip-for-Business-PHP.git
+cd Flip-for-Business-PHP
+composer install
 ```
 
 ## Configuration
@@ -29,7 +31,7 @@ composer require reynaldiarya/flip-for-business-php
 You need to configure your API Key and environment (Sandbox/Production) before using the client.
 
 ```php
-use Reynaldiarya\FlipForBusinessPhp\Config;
+use AkselerasiPrimaDigital\FlipForBusinessPhp\Config;
 
 // Set your API Key
 Config::$apiKey = 'YOUR_FLIP_API_KEY';
@@ -48,7 +50,7 @@ Config::$debug = true;
 Initialize the main client after configuration:
 
 ```php
-use Reynaldiarya\FlipForBusinessPhp\FlipForBusiness;
+use AkselerasiPrimaDigital\FlipForBusinessPhp\FlipForBusiness;
 
 $flip = new FlipForBusiness();
 ```

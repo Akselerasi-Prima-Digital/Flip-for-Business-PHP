@@ -7,7 +7,7 @@
         "flip",
         "flip for business"
     ],
-    "homepage": "https://github.com/akselerasiprimadigital/Flip-for-Business-PHP",
+    "homepage": "https://github.com/Akselerasi-Prima-Digital/Flip-for-Business-PHP",
     "type": "library",
     "require": {
         "php": "^8.1",
