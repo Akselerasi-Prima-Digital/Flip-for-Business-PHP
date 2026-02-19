@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Client as Guzzle;
-use Reynaldiarya\FlipForBusinessPhp\AcceptPayment\AcceptPayment;
+use AkselerasiPrimaDigital\FlipForBusinessPhp\AcceptPayment\AcceptPayment;
 
 final class AcceptPaymentTest extends TestCase
 {

@@ -2,8 +2,8 @@
 
 require __DIR__ . '../../../vendor/autoload.php';
 
-use Reynaldiarya\FlipForBusinessPhp\Config;
-use Reynaldiarya\FlipForBusinessPhp\FlipForBusiness;
+use AkselerasiPrimaDigital\FlipForBusinessPhp\Config;
+use AkselerasiPrimaDigital\FlipForBusinessPhp\FlipForBusiness;
 
 Config::$apiKey = 'YOUR API KEY';
 Config::$isProduction = false;

@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Reynaldiarya\FlipForBusinessPhp\AcceptPayment;
+namespace AkselerasiPrimaDigital\FlipForBusinessPhp\AcceptPayment;
 
 use GuzzleHttp\Client as Guzzle;
 use GuzzleHttp\Exception\GuzzleException;
-use Reynaldiarya\FlipForBusinessPhp\Exceptions\FlipException;
-use Reynaldiarya\FlipForBusinessPhp\Exceptions\HttpException;
+use AkselerasiPrimaDigital\FlipForBusinessPhp\Exceptions\FlipException;
+use AkselerasiPrimaDigital\FlipForBusinessPhp\Exceptions\HttpException;
 
 final class AcceptPayment
 {

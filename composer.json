@@ -1,13 +1,13 @@
 {
-    "name": "reynaldiarya/flip-for-business-php",
-    "description": "Unofficial PHP client for Flip for Business APIs (Disbursement, Accept Payment, Virtual Account, etc).",
+    "name": "akselerasiprimadigital/flip-for-business-php",
+    "description": "Unofficial PHP client for Flip for Business APIs (Disbursement, Accept Payment, Virtual Account, etc) by Akselerasi Prima Digital.",
     "version": "0.0.1-dev",
     "keywords": [
         "bigflip",
         "flip",
         "flip for business"
     ],
-    "homepage": "https://github.com/reynaldiarya/Flip-for-Business-PHP",
+    "homepage": "https://github.com/akselerasiprimadigital/Flip-for-Business-PHP",
     "type": "library",
     "require": {
         "php": "^8.1",
@@ -17,7 +17,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Reynaldiarya\\FlipForBusinessPhp\\": "src/"
+            "AkselerasiPrimaDigital\\FlipForBusinessPhp\\": "src/"
         }
     },
     "authors": [

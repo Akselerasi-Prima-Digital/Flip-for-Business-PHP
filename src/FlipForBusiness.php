@@ -2,14 +2,14 @@
 
 declare(strict_types=1);
 
-namespace Reynaldiarya\FlipForBusinessPhp;
+namespace AkselerasiPrimaDigital\FlipForBusinessPhp;
 
 use GuzzleHttp\Client as Guzzle;
 use GuzzleHttp\HandlerStack;
 use GuzzleHttp\Middleware;
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;
-use Reynaldiarya\FlipForBusinessPhp\AcceptPayment\AcceptPayment;
+use AkselerasiPrimaDigital\FlipForBusinessPhp\AcceptPayment\AcceptPayment;
 
 final class FlipForBusiness
 {

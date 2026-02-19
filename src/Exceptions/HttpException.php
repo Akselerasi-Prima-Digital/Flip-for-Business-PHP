@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Reynaldiarya\FlipForBusinessPhp\Exceptions;
+namespace AkselerasiPrimaDigital\FlipForBusinessPhp\Exceptions;
 
 class HttpException extends FlipException
 {

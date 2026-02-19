@@ -7,7 +7,7 @@ Thank you for your interest in contributing to the Flip for Business PHP Client!
 1.  **Fork the repository** on GitHub.
 2.  **Clone your fork** locally:
     ```bash
-    git clone https://github.com/reynaldiarya/Flip-for-Business-PHP.git
+    git clone https://github.com/Akselerasi-Prima-Digital/Flip-for-Business-PHP.git
     cd Flip-for-Business-PHP
     ```
 3.  **Install dependencies** using Composer:
@@ -45,6 +45,6 @@ vendor/bin/phpunit
 
 ## Reporting Issues
 
-If you find a bug or have a feature request, please open an issue on the [GitHub Issues](https://github.com/reynaldiarya/Flip-for-Business-PHP/issues) page. Provide as much detail as possible, including steps to reproduce the issue.
+If you find a bug or have a feature request, please open an issue on the [GitHub Issues](https://github.com/Akselerasi-Prima-Digital/Flip-for-Business-PHP/issues) page. Provide as much detail as possible, including steps to reproduce the issue.
 
 Thank you for contributing!

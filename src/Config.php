@@ -1,6 +1,6 @@
 <?php
 
-namespace Reynaldiarya\FlipForBusinessPhp;
+namespace AkselerasiPrimaDigital\FlipForBusinessPhp;
 
 /**
  * Flip for Business Configuration.
